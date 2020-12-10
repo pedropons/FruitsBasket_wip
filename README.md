@@ -6,3 +6,5 @@ This repo contains the needed assets to start a Unity project. Moreover, there's
 The game has only been tested on Windows x86. Running on different systems may yield unexpected results.
 
 Oh, and in case you didn't notice yet, this is totally a Work in Progress!
+
+Credits to Miranda Guerriero and Alex de Felipe ;)
