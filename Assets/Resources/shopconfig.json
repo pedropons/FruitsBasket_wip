@@ -1,0 +1,19 @@
+{
+  "shoplist": [
+    {
+      "name": "default",
+      "model": "cesta_roja",
+      "price": 0
+    },
+    {
+      "name": "gato",
+      "model": "cesta_gato",
+      "price": 10
+    },
+    {
+      "name": "conejo",
+      "model": "cesta_conejo",
+      "price": 20
+    }
+  ]
+}
