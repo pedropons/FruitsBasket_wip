@@ -7,4 +7,4 @@ The game has only been tested on Windows x86. Running on different systems may y
 
 Oh, and in case you didn't notice yet, this is totally a Work in Progress!
 
-*Credits to Miranda Guerriero and Alex de Felipe ;)*
+*Credits to Miranda Guerriero (aka "miri") and Alex de Felipe (featuring as "Co.") ;)*
