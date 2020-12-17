@@ -1,5 +1,5 @@
 # FruitsBasket_wip
-**The first Unity game by Pitimiri&amp;Co. Nothing to do with the anime!**
+**The first Unity game by Pitimiri&amp;Co. Nothing to do with the popular anime!**
 
 This repo contains the needed assets to start a Unity project. Moreover, there's a .zip file containing the already-built project, ready to play.
 
